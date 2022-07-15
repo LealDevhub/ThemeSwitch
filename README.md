@@ -8,7 +8,7 @@ Projeto desenvolvido como um desafio da plataforma Rocketseat, no curso Discover
 - 👋 Hi, I’m @FPLealhub
 - 👀 I’m interested in enter the field of information technology
 - 🌱 I'm currently learning programming at rocketseat  
-- 💞️ I’m looking to collaborate on backend development
+- 💞️ I’m looking to collaborate on frontend development
 - 📫 How to reach me: @f.p.leal on instagram
 
 <br></br>
