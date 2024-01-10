@@ -2,6 +2,8 @@
 Projeto desenvolvido como um desafio da plataforma Rocketseat, no curso Discover, com três tecnologias: HTML, CSS, e JavaScript. O desafio proposto era desenvolver uma página que contenha um toggle para alternar entre o tema dark e light.
 link do projeto:  <a href="https://lealdevhub.github.io/ThemeSwitch/" target="_blank">ThemeSwitch</a>
 
+<img alt="Leal-gif" src="https://cdn.discordapp.com/attachments/842816577501659146/1194726869988290620/Design_sem_nome.gif" />
+
 <!--<img align="right" height="590rem" src="https://raw.githubusercontent.com/gist/FPLealhub/b9041e20f84fa21004d41d970a198413/raw/6260b4c06231d4ebae2916cb37a9c77e6712546b/githubcard.svg"/>
 <h1 align="left">Hi <img src"https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif"  width="30px" />, i´m Fabricio P. Leal   </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=FPLealhub&color=yellow" alt="Profile view" /> </p>
